@@ -1,2 +1,2 @@
 # Automatic-Email
-Sending Email using python through SMTP Protocol ( Smtplib )
+## Sending Email using python through SMTP Protocol ( Smtplib )
